@@ -1,3 +1,5 @@
+Example C++ library called in Python
+------------------------------------
 RUN `./compile`
 Then run `python fooWraper.py`
 Taken from Florian Bösch
